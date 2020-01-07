@@ -1,0 +1,17 @@
+WMT2019 BioMedical http://www.statmt.org/wmt19/biomedical-translation-task.html
+
+For data collection, please refer to http://www.statmt.org/wmt19/pdf/54/WMT21.pdf
+
+
+Author: Xing Wang(xingwsuda@gmail.com)
+
+Train file:
+        Corpus Name                             URL                                                                             File Name           Size
+        Medline abstracts training data         https://drive.google.com/open?id=1x4689LkvdJTyAxsB6tYu12MJzxgiyDZ_              de-en.tar.gz        40398
+        UFAL Medical Corpus                     https://ufal.mff.cuni.cz/ufal_medical_corpus                                    shuffled.de-en.gz   37814533
+
+Devtest file:
+        Corpus Name                         URL                                                                     File Name                               Size
+        Khresmoi development data           https://lindat.mff.cuni.cz/repository/xmlui/handle/11234/1-2122         khresmoi-summary-test-set-2.0.zip       dev/500 test
+/1000
+        HimL test sets                      http://www.himl.eu/test-sets                                            himl-test-2017.tgz                      467
